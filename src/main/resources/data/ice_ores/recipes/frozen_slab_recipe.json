@@ -1,0 +1,22 @@
+{
+  "group": "ice_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "ice_ores:frozen_planks"
+    },
+    "1": {
+      "item": "ice_ores:frozen_planks"
+    },
+    "2": {
+      "item": "ice_ores:frozen_planks"
+    }
+  },
+  "result": {
+    "item": "ice_ores:frozen_slab",
+    "count": 6
+  }
+}

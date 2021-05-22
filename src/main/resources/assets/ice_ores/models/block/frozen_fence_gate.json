@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "ice_ores:blocks/frozen_planks"
+  }
+}

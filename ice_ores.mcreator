@@ -1,0 +1,442 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "FrozerGui",
+      "type": "gui",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozer_gui"
+    },
+    {
+      "name": "IceCoal",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_coal"
+    },
+    {
+      "name": "IceIron",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_iron"
+    },
+    {
+      "name": "IceGold",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_gold"
+    },
+    {
+      "name": "IceDiamond",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_diamond"
+    },
+    {
+      "name": "IceLapis",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_lapis"
+    },
+    {
+      "name": "IceRedstone",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_redstone"
+    },
+    {
+      "name": "Frozer",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozer"
+    },
+    {
+      "name": "FrozerOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozer_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FrozerUpdateTick",
+      "type": "procedure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozer_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FrozerCraft",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozer_craft"
+    },
+    {
+      "name": "IceCoalSmelt",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_coal_smelt"
+    },
+    {
+      "name": "IceIronSmelt",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_iron_smelt"
+    },
+    {
+      "name": "IceGoldSmelt",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_gold_smelt"
+    },
+    {
+      "name": "IceDiamondSmelt",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_diamond_smelt"
+    },
+    {
+      "name": "IceLapisSmelt",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_lapis_smelt"
+    },
+    {
+      "name": "IceRedstoneSmelt",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_redstone_smelt"
+    },
+    {
+      "name": "IceIslands",
+      "type": "dimension",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_islands",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "FrozenWood",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_wood"
+    },
+    {
+      "name": "FrozenLog",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_log"
+    },
+    {
+      "name": "FrozenPlanks",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_planks"
+    },
+    {
+      "name": "FrozenStairs",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_stairs"
+    },
+    {
+      "name": "FrozenSlab",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_slab"
+    },
+    {
+      "name": "FrozenFence",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_fence"
+    },
+    {
+      "name": "FrozenFenceGate",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_fence_gate"
+    },
+    {
+      "name": "FrozenItemsTag",
+      "type": "tag",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_items_tag"
+    },
+    {
+      "name": "FrozenWoodRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_wood_recipe"
+    },
+    {
+      "name": "FrozenPlanksRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_planks_recipe"
+    },
+    {
+      "name": "FrozenStairsRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_stairs_recipe"
+    },
+    {
+      "name": "FrozenSlabRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_slab_recipe"
+    },
+    {
+      "name": "FrozenFenceRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_fence_recipe"
+    },
+    {
+      "name": "FrozenFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_fence_gate_recipe"
+    },
+    {
+      "name": "FrozenStickRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_stick_recipe"
+    },
+    {
+      "name": "FrozenLeaves",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_leaves"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "log_blocks"
+    },
+    {
+      "name": "LeaveBlocks",
+      "type": "tag",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leave_blocks"
+    },
+    {
+      "name": "FrozenBiome",
+      "type": "biome",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_biome"
+    },
+    {
+      "name": "FrozenPortalOpenerCraft",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_portal_opener_craft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.ice_ores.frozen_slab": "Frozen Slab",
+      "block.ice_ores.ice_lapis": "Frozen Lapis Lazuli",
+      "block.ice_ores.frozen_planks": "Frozen Planks",
+      "block.ice_ores.frozen_leaves": "Frozen Leaves",
+      "block.ice_ores.frozen_fence_gate": "Frozen Fence Gate",
+      "block.ice_ores.ice_diamond": "Frozen Diamond",
+      "block.ice_ores.ice_iron": "Frozen Iron",
+      "block.ice_ores.frozer": "Frozer",
+      "biome.ice_ores.frozen_biome": "Frozen Biome",
+      "block.ice_ores.frozen_log": "Frozen Log",
+      "block.ice_ores.ice_coal": "Frozen Coal",
+      "block.ice_ores.ice_gold": "Frozen Gold",
+      "block.ice_ores.ice_redstone": "Frozen Redstone",
+      "block.ice_ores.frozen_fence": "Frozen Fence",
+      "item.ice_ores.ice_islands": "Ice Islands Portal Opener",
+      "block.ice_ores.frozen_wood": "Frozen Wood",
+      "block.ice_ores.frozen_stairs": "Frozen Stairs"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ice_ores",
+    "modName": "Ice Ores",
+    "version": "build0051",
+    "description": "Ores In Ice!",
+    "author": "Buluttish",
+    "websiteURL": "https://www.curseforge.com/members/bulutcorbaci/projects",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "pack",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Made with MCreator",
+    "modElementsPackage": "net.mcreator.iceores",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,19 @@
+{
+  "block.ice_ores.frozen_slab": "Frozen Slab",
+  "block.ice_ores.ice_lapis": "Frozen Lapis Lazuli",
+  "block.ice_ores.frozen_planks": "Frozen Planks",
+  "block.ice_ores.frozen_leaves": "Frozen Leaves",
+  "block.ice_ores.frozen_fence_gate": "Frozen Fence Gate",
+  "block.ice_ores.ice_diamond": "Frozen Diamond",
+  "block.ice_ores.ice_iron": "Frozen Iron",
+  "block.ice_ores.frozer": "Frozer",
+  "biome.ice_ores.frozen_biome": "Frozen Biome",
+  "block.ice_ores.frozen_log": "Frozen Log",
+  "block.ice_ores.ice_coal": "Frozen Coal",
+  "block.ice_ores.ice_gold": "Frozen Gold",
+  "block.ice_ores.ice_redstone": "Frozen Redstone",
+  "block.ice_ores.frozen_fence": "Frozen Fence",
+  "item.ice_ores.ice_islands": "Ice Islands Portal Opener",
+  "block.ice_ores.frozen_wood": "Frozen Wood",
+  "block.ice_ores.frozen_stairs": "Frozen Stairs"
+}

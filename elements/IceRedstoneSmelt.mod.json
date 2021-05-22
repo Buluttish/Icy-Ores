@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:IceRedstone"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.REDSTONE"
+    },
+    "name": "ice_redstone_smelt",
+    "namespace": "mod"
+  }
+}

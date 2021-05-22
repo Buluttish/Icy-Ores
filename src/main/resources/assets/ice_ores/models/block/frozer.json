@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ice_ores:blocks/frozer_top",
+    "up": "ice_ores:blocks/frozer_top",
+    "north": "ice_ores:blocks/frozer_front",
+    "east": "ice_ores:blocks/frozer_side",
+    "south": "ice_ores:blocks/frozer_back",
+    "west": "ice_ores:blocks/frozer_side",
+    "particle": "ice_ores:blocks/frozer_top"
+  }
+}

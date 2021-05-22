@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ice_ores:blocks/frozen_log_top",
+    "up": "ice_ores:blocks/frozen_log_top",
+    "north": "ice_ores:blocks/frozen_log_side",
+    "east": "ice_ores:blocks/frozen_log_side",
+    "south": "ice_ores:blocks/frozen_log_side",
+    "west": "ice_ores:blocks/frozen_log_side",
+    "particle": "ice_ores:blocks/frozen_log_top"
+  }
+}

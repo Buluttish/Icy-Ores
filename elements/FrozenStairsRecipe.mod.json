@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:FrozenPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FrozenPlanks"
+      },
+      {
+        "value": "CUSTOM:FrozenPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FrozenPlanks"
+      },
+      {
+        "value": "CUSTOM:FrozenPlanks"
+      },
+      {
+        "value": "CUSTOM:FrozenPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FrozenStairs"
+    },
+    "name": "frozen_stairs_recipe",
+    "namespace": "mod"
+  }
+}

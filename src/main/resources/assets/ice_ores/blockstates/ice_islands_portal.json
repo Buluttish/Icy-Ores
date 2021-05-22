@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "ice_ores:block/ice_islands_portal_ew"
+    },
+    "axis=x": {
+      "model": "ice_ores:block/ice_islands_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ice_ores:block/frozen_slab"
+    },
+    "type=top": {
+      "model": "ice_ores:block/frozen_slab_top"
+    },
+    "type=double": {
+      "model": "ice_ores:block/frozen_slab_full"
+    }
+  }
+}

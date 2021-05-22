@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="ice_ores"
+version="build0051"
+displayName="Ice Ores"
+credits="Made with MCreator"
+displayURL="https://www.curseforge.com/members/bulutcorbaci/projects"
+logoFile="logo.png"
+authors="Buluttish"
+description='''
+Ores In Ice!
+'''
+
+[[dependencies.ice_ores]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

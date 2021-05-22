@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "ice_ores:blocks/frozen_planks",
+    "particle": "ice_ores:blocks/frozen_planks"
+  }
+}

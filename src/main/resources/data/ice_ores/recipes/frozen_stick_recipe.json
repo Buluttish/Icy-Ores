@@ -1,0 +1,20 @@
+{
+  "group": "ice_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "ice_ores:frozen_planks"
+    },
+    "1": {
+      "item": "ice_ores:frozen_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}

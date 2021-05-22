@@ -1,0 +1,26 @@
+{
+  "group": "ice_ores",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "ice_ores:frozen_log"
+    },
+    "1": {
+      "item": "ice_ores:frozen_log"
+    },
+    "2": {
+      "item": "ice_ores:frozen_log"
+    },
+    "3": {
+      "item": "ice_ores:frozen_log"
+    }
+  },
+  "result": {
+    "item": "ice_ores:frozen_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ice_ores:blocks/frozen_gold",
+    "particle": "ice_ores:blocks/frozen_gold"
+  }
+}

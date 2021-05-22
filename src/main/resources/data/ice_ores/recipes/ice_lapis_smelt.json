@@ -1,0 +1,12 @@
+{
+  "group": "ice_ores",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "ice_ores:ice_lapis"
+  },
+  "result": {
+    "item": "minecraft:lapis_lazuli"
+  }
+}

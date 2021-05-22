@@ -1,0 +1,13 @@
+{
+  "group": "ice_ores",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:frozen_log"
+    }
+  ],
+  "result": {
+    "item": "ice_ores:frozen_planks",
+    "count": 4
+  }
+}
